@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{4EF6027F-F5EE-4983-940B-0280913C8FA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenege_Core/Program.cs">
+    <Files>
+      <File FileName="CodingChallenege_Core/Program.cs" Line="50" Column="42" />
+      <File FileName="CodingChallenege_Core/DataAccessLayer/ServiceWrapper.cs" Line="68" Column="1" />
+      <File FileName="CodingChallenege_Core/AssetPortfolio.cs" Line="34" Column="51" />
+      <File FileName="CodingChallenege_Core/Entities/Asset Entities/Stock.cs" Line="21" Column="1" />
+      <File FileName="CodingChallenege_Core/ExchangeRates.cs" Line="27" Column="89" />
+      <File FileName="CodingChallenege_Core/Entities/CurrencyLayerApiException.cs" Line="1" Column="1" />
+      <File FileName="CodingChallenege_Core/Entities/SymbolValidationException.cs" Line="7" Column="47" />
+      <File FileName="CodingChallenge_Tests/AssetPortfolio_Tests.cs" Line="7" Column="2" />
+      <File FileName="CodingChallenge_Tests/ExchnageRates_Tests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingChallenge_Core" expanded="True">
+            <Node name="CodingChallenge_Core" expanded="True">
+              <Node name="DataAccessLayer" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Asset Entities" expanded="True" />
+                <Node name="Exceptions" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="CodingChallenge_Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>assetPortfolio.ConsolidatedPortfolio</Value>
+          <Value>o[5]</Value>
+          <Value>ValidSymbols</Value>
+          <Value>JObject.Parse(result)["error"]</Value>
+          <Value>AccessKey</Value>
+          <Value>error</Value>
+          <Value>Portfolio</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CodingChallenge_Core" expanded="True" selected="True">
+            <Node name="CodingChallenge_Tests" expanded="True">
+              <Node name="CodingChallenge_Tests" expanded="True">
+                <Node name="AssetPortfolio_Tests" expanded="True" />
+                <Node name="ExchangeRates_Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenge_Tests/ExchnageRates_Tests.cs" relfile="CodingChallenge_Tests/ExchnageRates_Tests.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CodingChallenge__Core PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

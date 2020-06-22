@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVoZ9qg+c3CxFBpn4S4NNa+pyf52nOTO+o+K2KO0NHpsEAswPnp8qj0NnFKhzohVbVGZWO5BDHfCkAxmdUNLlA==",
+  "success": true,
+  "projectFilePath": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/CodingChallenge_Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/allisonhealy/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

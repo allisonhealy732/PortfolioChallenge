@@ -1,0 +1,14 @@
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.AssemblyInfoInputs.cache
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.AssemblyInfo.cs
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.csproj.CoreCompileInputs.cache
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/bin/Debug/netcoreapp3.1/CodingChallenge_Core.deps.json
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/bin/Debug/netcoreapp3.1/CodingChallenge_Core.runtimeconfig.json
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/bin/Debug/netcoreapp3.1/CodingChallenge_Core.runtimeconfig.dev.json
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/bin/Debug/netcoreapp3.1/CodingChallenge_Core.dll
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/bin/Debug/netcoreapp3.1/CodingChallenge_Core.pdb
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.dll
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.pdb
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.genruntimeconfig.cache
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.csprojAssemblyReference.cache
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/Debug/netcoreapp3.1/CodingChallenge_Core.csproj.CopyComplete

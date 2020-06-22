@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4EF6027F-F5EE-4983-940B-0280913C8FA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingChallenege_Core/AssetPortfolio.cs">
+    <Files>
+      <File FileName="CodingChallenege_Core/Program.cs" Line="11" Column="21" />
+      <File FileName="CodingChallenege_Core/AssetPortfolio.cs" Line="28" Column="41" />
+      <File FileName="CodingChallenege_Core/Stock.cs" />
+      <File FileName="CodingChallenege_Core/Asset.cs" />
+      <File FileName="CodingChallenege_Core/Currency.cs" />
+      <File FileName="CodingChallenege_Core/IExchangeRates.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingChallenege_Core" expanded="True">
+            <Node name="CodingChallenege_Core" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CodingChallenge__Core PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

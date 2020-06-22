@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenge_Tests/CodingChallenge_Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/CodingChallenge_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/CodingChallenge_Core.csproj",
+        "projectName": "CodingChallenge_Core",
+        "projectPath": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/CodingChallenge_Core.csproj",
+        "packagesPath": "/Users/allisonhealy/.nuget/packages/",
+        "outputPath": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/allisonhealy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenge_Tests/CodingChallenge_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenge_Tests/CodingChallenge_Tests.csproj",
+        "projectName": "CodingChallenge_Tests",
+        "projectPath": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenge_Tests/CodingChallenge_Tests.csproj",
+        "packagesPath": "/Users/allisonhealy/.nuget/packages/",
+        "outputPath": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenge_Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/allisonhealy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/CodingChallenge_Core.csproj": {
+                "projectPath": "/Users/allisonhealy/Projects/CodingChallenege_Core/CodingChallenege_Core/CodingChallenge_Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.3, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
